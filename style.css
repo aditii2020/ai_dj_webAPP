@@ -1,0 +1,37 @@
+#note {
+    color: black;
+    font-size: 15px;
+
+}
+
+.volume_div {
+    float: right;
+}
+
+.volume_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume {
+    font-size: 23px;
+    margin: 15px;
+}
+
+.speed_div {
+    float: left;
+}
+
+.speed_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed {
+    font-size: 23px;
+    margin: 15px;
+   
+}
+canvas{
+    border: white 7px dashed;
+}
